@@ -1,7 +1,0 @@
-license
-setup.py
-Armstrongnumberfinder.egg-info/PKG-INFO
-Armstrongnumberfinder.egg-info/SOURCES.txt
-Armstrongnumberfinder.egg-info/dependency_links.txt
-Armstrongnumberfinder.egg-info/top_level.txt
-armstrongnbrfinder/__init__.py
