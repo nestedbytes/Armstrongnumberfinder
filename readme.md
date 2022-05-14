@@ -1,4 +1,5 @@
 Hi this package helps you find armstrong numbers <br>
+[Pypi](https://pypi.org/project/Armstrongnumberfinder/) <br>
 Install 
 ```sh
 pip install Armstrongnumberfinder
